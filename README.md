@@ -27,7 +27,7 @@ run:
 
 * mvn exec:exec -Duser_host=127.0.0.1 -Dserver_address=127.0.0.1:8080
 
-Sensors:
+### Sensors:
 
 * cmd-> cd Server folder
 
