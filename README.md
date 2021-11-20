@@ -31,8 +31,13 @@ exit
 
 [User]
 (2)
+
 userName/password: yochevet/12345
+
 /user show <text|file> <all|speficic sensor> day <NUMBER>
+  
 note: day is not must (will be off by default)
+  
 example:
+  
 /user show text all day 21
